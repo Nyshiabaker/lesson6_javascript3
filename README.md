@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(November 19, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Nyshia Baker)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Building an application that displays a photo gallery of images and allows the usersto navigate through the images with the use of javascript and DOM and BOM.  
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://nyshiabaker.github.io/lesson6_javascript3/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. BOM contains the Document object, which represents the contents of a document within the browser
+2. This document object has its own object model, known as the document object model (DOM).
+3. To create a new element node using the createElement()method of the Document object, the following syntax is used:document.createElement("element")
 
